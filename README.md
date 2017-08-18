@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 Visit the MF website
 
 ## Deployment
+
+Hit F5 b
+
+## Misc
+
+Dunno what to put here...
