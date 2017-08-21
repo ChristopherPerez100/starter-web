@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ##  How to Contribute
 
-Visit the MF website
+Visit the MF website. Then fork. Add stuff.
 
 ## Deployment
 
