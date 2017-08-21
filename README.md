@@ -17,3 +17,7 @@ Hit F5 b
 ## Misc
 
 Dunno what to put here...
+
+### Copyright
+
+CR Chris
